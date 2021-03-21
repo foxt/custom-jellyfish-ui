@@ -95,7 +95,7 @@ function homomode() {
     var hs = document.querySelector("#hueSlider")
     if (document.querySelector("#homo").checked) {
         document.querySelector(".topBarBrand").innerText = "Jellyfish"
-        document.body.classList.remove("gay")
+        document.body.classList.add("gay")
     } else {
         document.querySelector(".topBarBrand").innerText = "Jellyfish"
         document.body.classList.remove("gay")
