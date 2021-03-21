@@ -1,0 +1,24 @@
+{
+  "name": "jellyfish-ui",
+  "description": "The default UI for Jellyfish.",
+  "author": "theLMGN",
+  "version": "2.0.0",
+  "main": "index.html",
+  "keywords": [ "jellyfish-ui" ],
+  
+  "dependencies": {
+    "monaco-editor": "^0.20.0"
+  },
+  "devDependencies": {},
+
+  "license": "SEE LICENCE IN LICENCE",
+  
+  "homepage": "https://github.com/Jellyfish-lsef/jellyfish-ui#readme",
+  "bugs": {
+    "url": "https://github.com/Jellyfish-lsef/jellyfish-ui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jellyfish-lsef/jellyfish-ui.git"
+  }
+}
